@@ -2,6 +2,8 @@
 
 ## Demo
 
+<img src="./stocks-wc.png">
+
 Demo <a href="https://webcomponents-study.vercel.app/">here</a>.
 
 ## Getting Started
